@@ -133,6 +133,10 @@ nav a.active {
   font-weight: 600;
   margin-right: 30px;
 }
+.portfolio-button:hover {
+  background: transparent;
+  color: #000;
+}
 .icon-buttons a {
   border-radius: 50%;
   border: 2px solid #7cf03d;
@@ -140,7 +144,8 @@ nav a.active {
   font-size: 14px;
   display: inline-flex;
   margin-right: 10px;
-}.icon-buttons a {
+}
+.icon-buttons a {
   border-radius: 50%;
   border: 2px solid #7cf03d;
   padding: 8px;
